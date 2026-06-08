@@ -68,6 +68,18 @@ food-recognition-nutrition-analyzer/
 └── README.md
 
 
+# 📸 Demo
+
+## Demo 1
+![Gulab Jamun](gulab jamun.png)
+
+## Demo 2
+![White Sauce Pasta](white sauce pasta.png)
+
+## Demo 3
+![Pizza](pizza.png)
+
+
 ## 🍕 Supported Food Categories
 
 - Chowmein
