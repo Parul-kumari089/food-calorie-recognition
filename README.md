@@ -71,10 +71,10 @@ food-recognition-nutrition-analyzer/
 # 📸 Demo
 
 ## Demo 1
-![Gulab Jamun](gulab jamun.png)
+![Gulab Jamun](gulabjamun.png)
 
 ## Demo 2
-![White Sauce Pasta](white sauce pasta.png)
+![White Sauce Pasta](whitesaucepasta.png)
 
 ## Demo 3
 ![Pizza](pizza.png)
