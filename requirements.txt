@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 tensorflow
 numpy
 scikit-learn
 joblib
 streamlit
 pillow
+=======
+tensorflow
+numpy
+scikit-learn
+joblib
+streamlit
+pillow
+>>>>>>> 8247e25e0ea7b4a415269fbb019aa8842df71d62
